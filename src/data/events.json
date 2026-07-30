@@ -1,0 +1,7 @@
+[
+  { "id": "e1", "title": "Annual Cultural Fest — Rehearsal", "buildingId": "b4", "location": "Auditorium", "date": "Today", "time": "3:00 PM – 6:00 PM", "category": "Cultural" },
+  { "id": "e2", "title": "AI & Robotics Workshop", "buildingId": "b9", "location": "IT Department Block, Seminar Room", "date": "Today", "time": "1:00 PM – 3:00 PM", "category": "Academic" },
+  { "id": "e3", "title": "Inter-College Basketball Finals", "buildingId": "b8", "location": "Sports Complex", "date": "Tomorrow", "time": "5:00 PM – 7:00 PM", "category": "Sports" },
+  { "id": "e4", "title": "Placement Drive — Infosys", "buildingId": "b3", "location": "Placement Cell", "date": "Tomorrow", "time": "10:00 AM – 4:00 PM", "category": "Placement" },
+  { "id": "e5", "title": "Semester End Examinations Begin", "buildingId": "b2", "location": "Engineering Block", "date": "Today", "time": "9:00 AM – 1:00 PM", "category": "Exam" }
+]

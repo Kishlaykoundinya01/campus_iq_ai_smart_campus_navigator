@@ -1,0 +1,58 @@
+[
+  {
+    "id": "x1",
+    "rollNumber": "CS2101",
+    "name": "Ananya Kulkarni",
+    "department": "Computer Science Department",
+    "examName": "Data Structures & Algorithms",
+    "buildingId": "b2",
+    "floor": "3rd Floor",
+    "room": "ENG-304",
+    "seat": "A-14",
+    "date": "30 July 2026",
+    "reportingTime": "9:00 AM",
+    "walkingTime": "6 min"
+  },
+  {
+    "id": "x2",
+    "rollNumber": "CS2142",
+    "name": "Rahul Deshmukh",
+    "department": "Computer Science Department",
+    "examName": "Data Structures & Algorithms",
+    "buildingId": "b2",
+    "floor": "3rd Floor",
+    "room": "ENG-304",
+    "seat": "A-27",
+    "date": "30 July 2026",
+    "reportingTime": "9:00 AM",
+    "walkingTime": "6 min"
+  },
+  {
+    "id": "x3",
+    "rollNumber": "EC1187",
+    "name": "Sneha Joshi",
+    "department": "Electronics Department",
+    "examName": "Digital Signal Processing",
+    "buildingId": "b2",
+    "floor": "2nd Floor",
+    "room": "ENG-210",
+    "seat": "B-03",
+    "date": "30 July 2026",
+    "reportingTime": "9:00 AM",
+    "walkingTime": "6 min"
+  },
+  {
+    "id": "x4",
+    "rollNumber": "PH0932",
+    "name": "Arjun Malhotra",
+    "department": "Physics Department",
+    "examName": "Quantum Mechanics",
+    "buildingId": "b7",
+    "floor": "1st Floor",
+    "room": "SCI-101",
+    "seat": "C-09",
+    "date": "31 July 2026",
+    "reportingTime": "9:30 AM",
+    "walkingTime": "11 min"
+  }
+]

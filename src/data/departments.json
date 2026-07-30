@@ -1,0 +1,9 @@
+[
+  { "id": "d1", "name": "Computer Science Department", "buildingId": "b2", "hod": "Dr. Amit Sharma", "description": "Undergraduate and postgraduate programs in computer science and AI." },
+  { "id": "d2", "name": "Electronics Department", "buildingId": "b2", "hod": "Dr. Kavita Rao", "description": "VLSI, embedded systems and communication engineering." },
+  { "id": "d3", "name": "Registrar Office", "buildingId": "b3", "hod": "Mr. Suresh Iyer", "description": "Student records, admissions and academic administration." },
+  { "id": "d4", "name": "Physics Department", "buildingId": "b7", "hod": "Dr. Neha Verma", "description": "Applied and theoretical physics research and teaching." },
+  { "id": "d5", "name": "IT Department", "buildingId": "b9", "hod": "Dr. Rohan Mehta", "description": "Campus network infrastructure and information systems." },
+  { "id": "d6", "name": "Placement Cell", "buildingId": "b3", "hod": "Ms. Priya Nair", "description": "Internships, campus placements and career guidance." },
+  { "id": "d7", "name": "Examination Cell", "buildingId": "b3", "hod": "Dr. Sanjay Gupta", "description": "Examination scheduling, seating and results." }
+]

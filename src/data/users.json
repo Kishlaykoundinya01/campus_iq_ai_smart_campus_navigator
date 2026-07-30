@@ -1,0 +1,8 @@
+[
+  { "id": "student", "label": "Student", "description": "Find professors, exam centers and classes" },
+  { "id": "professor", "label": "Professor", "description": "Manage your availability and cabin status" },
+  { "id": "visitor", "label": "Parent / Visitor", "description": "Navigate the campus with simple, guided steps" },
+  { "id": "staff", "label": "Campus Staff", "description": "Assist visitors and manage facilities" },
+  { "id": "admin", "label": "Administrator", "description": "Oversee departments, buildings and events" },
+  { "id": "controller", "label": "Examination Controller", "description": "Manage exam rooms, seating and building access" }
+]

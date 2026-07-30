@@ -1,0 +1,7 @@
+[
+  { "id": "n1", "type": "professor", "title": "Dr. Kavita Rao is now available", "message": "You can visit her cabin ENG-208 now.", "time": "2 min ago", "read": false },
+  { "id": "n2", "type": "exam", "title": "Exam tomorrow", "message": "Quantum Mechanics exam at Science Block, Room SCI-101, 9:30 AM.", "time": "1 hour ago", "read": false },
+  { "id": "n3", "type": "building", "title": "Engineering Block restricted", "message": "Restricted until 1:00 PM due to semester examinations.", "time": "3 hours ago", "read": true },
+  { "id": "n4", "type": "route", "title": "Alternative route suggested", "message": "Auditorium is on limited access — use the east entrance instead.", "time": "5 hours ago", "read": true },
+  { "id": "n5", "type": "event", "title": "AI & Robotics Workshop starts at 1:00 PM", "message": "IT Department Block, Seminar Room.", "time": "Yesterday", "read": true }
+]
