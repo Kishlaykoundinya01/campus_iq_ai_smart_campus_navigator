@@ -1,5 +1,5 @@
 # CampusIQ — AI Smart Campus Navigator
-
+Live Demo : https://campus-iq-ai-smart-campus-navigator.onrender.com/
 **Find Anyone. Find Anywhere. Instantly.**
 
 A high-fidelity frontend prototype of an AI-powered campus navigation system, built for students, professors, parents/visitors, campus staff, administrators, and examination controllers.
